@@ -1,4 +1,4 @@
-from data_source.db_connection import get_connection
+from data_source.db_connection import get_connection 
 
 
 def delete_sports_activity(activity_id: int):
